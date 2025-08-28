@@ -1,0 +1,6 @@
+EmployeeID,Name,Salary,ManagerID
+1,John,90000,
+2,Sarah,60000,1
+3,David,95000,1
+4,Emma,85000,2
+5,Mike,72000,2
