@@ -1,22 +1,22 @@
 [
   {
     "SourceURL": "Amitsen1014/PythonApplication2/master/Raw/EmpData.csv",
-    "DestinationPath": "Files/raw/EmpData.csv",
+    "DestinationPath": "Files/raw/EmpData",
     "FileName": "EmpData.csv"
   },
   {
     "SourceURL": "Amitsen1014/PythonApplication2/master/Raw/Ordertable",
     "DestinationPath": "Files/raw/Ordertable",
-    "FileName": "Ordertable"
+    "FileName": "Ordertable.csv"
   },
   {
     "SourceURL": "Amitsen1014/PythonApplication2/master/Raw/CustomerTable.csv",
-    "DestinationPath": "Files/raw/CustomerTable.csv",
+    "DestinationPath": "Files/raw/CustomerTable",
     "FileName": "CustomerTable.csv"
   },
   {
     "SourceURL": "Amitsen1014/PythonApplication2/master/Raw/SeoulBikeData.csv",
-    "DestinationPath": "Files/raw/SeoulBikeData.csv",
+    "DestinationPath": "Files/raw/SeoulBikeData",
     "FileName": "SeoulBikeData.csv"
   }
 ]
